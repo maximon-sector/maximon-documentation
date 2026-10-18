@@ -3,20 +3,24 @@ DONE! ~~Step 1~~:
 - Assemble a team and get them on board. 
 - Make a discord server.
 - Get someone besides me to control the git OR make a git acct anyways and give full privileges to the inner circle programmers.
+
 DONE! ~~Step 2~~:
 - Argue about how much we can change right now that suits our standards. (ex: can we add particles to stuff as that's technically visual? can we change balance stuff that's mainly visual? can we touch microbalancing or deny changes from upstream we dont like? Etc)
 - Argue about how much we can change that's fundamentally necessary (ex: arming other departments, department budgets, subtle chat & SOOC, etc)
 (CONCLUSION: Implimenting Subtle/SOOC, and consent sheets is the only true must of this server programming-wise.)
+
 Step 3:
 - (SEE: Phase 1)
 - Gauge if this means its going anywhere at all.
 - Create readable, understandable design documents for the core systems Phase 1 needs at least.
 - Work on readable design doc proposals for core system reworks (ex: the WIP-named Maximed and Maxiepi, departmental lineups, etc), even if these are going to be implemented partially or in full at Phase 2/3.
+
 Step 4:
 - (SEE: Phase 2)
 - Maybe start up proper public playtesting? Hopefully with an audience of some sort?
 - Figure out what the admins are meant to do and how they're meant to do that. 
 - Definitively have the rules finalized by now if not earlier.
+
 Step 5:
 - (SEE: Phase 3)
 - Assemble into an actual server(?), presuming the project doesn't entirely collapse or my life doesn't collapse!
