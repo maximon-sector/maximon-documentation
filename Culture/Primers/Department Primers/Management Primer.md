@@ -22,7 +22,7 @@ Most likely you're an employee under one of the departments, in which case check
 
 If you're in Management, know that your job is to prevent the conflicting crew from going into all-out war, and to represent your sponsor's interests aboard the station.
 
-Should arguments ensue that Management is unable to reconcile, the Captain and Corporate Liaison have veto power. Should they veto each other then it cancels out, and it falls onto the Head of Personnel to veto out of a deadlock. Terrace and Terrance both kindly, and personally, ask that such situations be minimized as much as possible.
+Should arguments ensue that Management is unable to reconcile, the Captain has veto power against or for any topics and succestions.
 
 ### Standard Operating Procedure:
 [WIP 'cause unsure what to put here... but further SOP is partially minimum duties per department, and the overall end goal to run the station profitably— failing that, able to be recovered]
