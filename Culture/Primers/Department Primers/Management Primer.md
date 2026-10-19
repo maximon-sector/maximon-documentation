@@ -25,6 +25,6 @@ If you're in Management, know that your job is to prevent the conflicting crew f
 Should arguments ensue that Management is unable to reconcile, the Captain and Corporate Liaison have veto power. Should they veto each other then it cancels out, and it falls onto the Head of Personnel to veto out of a deadlock. Terrace and Terrance both kindly, and personally, ask that such situations be minimized as much as possible.
 
 ### Standard Operating Procedure:
-[unsure what to put here... but further SOP is partially minimum duties per department, and the overall end goal to run the station profitably— failing that, able to be recovered]
+[WIP 'cause unsure what to put here... but further SOP is partially minimum duties per department, and the overall end goal to run the station profitably— failing that, able to be recovered]
 
-[gotta figure out what else goes into a department primer tbh]
+[also, gotta figure out what else goes into a department primer tbh]
