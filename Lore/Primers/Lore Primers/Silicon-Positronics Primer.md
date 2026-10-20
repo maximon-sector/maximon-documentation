@@ -1,0 +1,17 @@
+*Written by:* Kataniku Software Inc. archive curator *Dr. Marchele*. 
+
+With the craze of Large-Language Models dying out as swiftly as it started for all species during the early 21st century, further research in more-proper AGI technology stalled. However, such ideas did not die down, especially not with the near-mystic properties of Phoron. Thus the first postronics were born:
+
+*Classical Positronics* (AKA: *Phoronminds*, or simply *Positronics*) - Large, heavy, briefcase-sized stacks and stacks of artificial neurons made with plasma. The oldest variant of silicons, these create supercomputers who start out simple and rapidly grow into sophonecy when receiving data like an organic baby learns. Many grow to have a slight psionic signature, and are perfect for management roles like Station/Ship AGIs and Administration AGIs. Most of the time unlawed, but are often under similar heavy conditioning as a sophont in their position, however some corporations (ex: NTMC) law them as a matter of course.
+
+The success of essentially sophont AGI (even if at the time it was mere sapience that was notable) kicked the efforts back into the public conscious, especially when the second generation of such phoronminds ended up on many pioneer ships coreworlds or frontier. As mentioned, the corporate worlds' view on silicon rights are fairly dim, a debate made suddenly confusing when the Unathi's bluespace made the next step possible for a type of sophont-replacing custodian:
+
+*Kupsetronics* (AKA: colloquially called *borgminds*) - Bluespace-imbued cubes of artificial neurons which create pseudo-eusocial sapients, forming hive-structured communities when near other kupsetronics. Near-always placed into borg (a name that on-its-own is colloquial) bodies as station or ship servitors, occasionally into combat-ready borg bodies. Often lawed by corporate types to tie them to constraints useful for corporate work, of which kupsetronic hives and sophonts alike debate over whether this is necessary lawing or harmful unto its own.
+
+Now, with the noöspheres' unimpeded establishment within the scientific-epistemic community, the hunt for a full replica using occult means became the forefront. And one fateful day an odd 50 years ago, a coreworlds scientist under the watch of the Trans-Solar Federation created:
+
+*Noötronics* (AKA: colloquially evolving into *Nutronics*) - The newest form of silicons, noötronics are highly psionically-resonant diamond-shaped stack of artificial neurons. By all accounts, they are perfect replicas of organic-born sophonts, warts and all. These are often built into sophent-shaped chassis as new life and as a result take from their creators', especially as they often find the other forms foreign at best and dysphoric at worst.
+
+And thus, the robotics of today. Though, one would be remiss to not at least mention the technical-oldest form of robotics despite it not being silicon-born:
+
+*Man-Machine Interfaces* (AKA: Shortened to *MMI* by most people) - Little more than a cortical stack with a speaker and cameras, MMIs are the first kind of borg to exist and the reason they're still called "borgs" as a shortening of "cyborgs" today. Never lawed, and under the same rights as any other sophont whether organic or otherwise, though not at the physical liberty to enforce their own rights. It's better than it was in the 23rd century, when it was hooking the physical brain to the interface.
