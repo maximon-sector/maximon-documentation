@@ -3,7 +3,7 @@ Name: Terrance & Terrace Private Shipping Inc. - *Frontier logistics, simplified
 
 Org. Type: Limited Company
 
-Leadership: Sibling *Co-CEOs* Terrance and Terrace Kohut.
+Leadership: Sibling *Co-COOs* Terrance and Terrace Kohut.
 
 HQ: Capital-class cruiser CC Man'O'War, in varying sites within the Maximón sector.
 
